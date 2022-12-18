@@ -5,7 +5,7 @@ import new_try
 import console_clear
 import gallows
 
-sys.path.append("modules/")
+#If modules are outsourced -> sys.path.append("modules/")
 word = input("Enter a word of your choice: ")
 word = word.lower()
 word_length = len(word)
