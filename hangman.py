@@ -1,3 +1,5 @@
+#! /usr/bin/python3
+
 #Imports
 import time
 import sys
